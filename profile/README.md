@@ -1,4 +1,4 @@
-#### The following are projects of **Robust Machines**:
+#### The following are projects of  **Ｒｏｂｕｓｔ Ｍａｃｈｉｎｅｓ** :
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <a href = 'https://github.com/ServedSpicy'>
   <img
-    src = 'https://avatars.githubusercontent.com/u/101571540?s=200&v=4'
+    src = 'https://avatars.githubusercontent.com/u/101571540?s=210&v=4'
     align = left
   />
   
