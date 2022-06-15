@@ -4,9 +4,11 @@
 
 ---
 
+<br>
+
 <a href = 'https://github.com/ServedSpicy'>
   <img
-    src = 'https://avatars.githubusercontent.com/u/101571540?s=190&v=4'
+    src = 'https://avatars.githubusercontent.com/u/101571540?s=230&v=4'
     align = left
   />
   
